@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CajunB
+- 👋 Hi, I’m @Aaron M.
 - 👀 I’m interested in python / sql
 - 🌱 I’m currently learning python and sql lol
 - 💞️ I’m looking to collaborate on anything I can
